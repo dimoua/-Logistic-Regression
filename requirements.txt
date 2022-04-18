@@ -32,4 +32,4 @@ seaborn==0.10.1
 
 six==1.15.0               # via cycler, python-dateutil
 
-sklearn==1.0.2
+Scikit-learn==1.0.2
