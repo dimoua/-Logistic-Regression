@@ -17,4 +17,4 @@ Mithilfe das folgende Badge kann das Programm in mybinder aufgerufen werden.
 
 ## Funktionsausführung
 
-Auf der Notebook 3-Logistische_Regression_Projekt-Loesung klicken und der Aufgabe kompilieren 
+Auf der Notebook 3-Logistische_Regression_Projekt-Loesung klicken.Restart der Kernel und run der gesamte Notebook 
