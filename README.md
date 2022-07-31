@@ -17,4 +17,5 @@ Mithilfe das folgende Badge kann das Programm in mybinder aufgerufen werden.
 
 ## Funktionsausführung
 
-Auf der Notebook 3-Logistische_Regression_Projekt-Loesung klicken.Restart der Kernel und run der gesamte Notebook 
+Auf der Notebook 3-Logistische_Regression_Projekt-Loesung klicken.
+Restart der Kernel und Run das gesamte Notebook, damit alle Bibliotheken aufgeladen werden und somit die Funktion head() ausgeführt wird.
