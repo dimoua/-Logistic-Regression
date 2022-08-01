@@ -8,7 +8,7 @@ Für die Ausführung des Projektes logistische Regression wurde in Git die Übun
 Die Requirement enthält die verschiedene Klasse, die für die Ausführung der Klasse in mybinder notwendig ist. Zudem, da mybinder bei der Notebookausführung auf klein und Großbuchstaben achtet, wurde die Excel Daten Name entsprechend angepasst.
 
 ## Beispiel der Übungsaufgabe
-Mit der Funktion ad_data = pd.read_csv ('Advertising.csv') wird eine Dataframe erstellt und die Excel-Daten hochgeladen. Mit der Funktion head(), werden die erste Zeile der Excel File dargestellt bzw. Visualisiert.
+Mit der Funktion ad_data = pd.read_csv ('Advertising.csv') wird eine Dataframe erstellt und die Excel-Daten hochgeladen. Mit der Funktion head(), werden die erste Zeile der Excel File dargestellt bzw. visualisiert.
 
 
 Mithilfe das folgende Badge kann das Programm in mybinder aufgerufen werden.
