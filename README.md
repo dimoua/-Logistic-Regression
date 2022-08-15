@@ -10,6 +10,7 @@ Die Requirement enthält die verschiedene Klasse, die für die Ausführung der K
 ## Beispiel der Übungsaufgabe
 Mit der Funktion ad_data = pd.read_csv ('Advertising.csv') wird eine Dataframe erstellt und die Excel-Daten hochgeladen. Mit der Funktion head(), werden die erste Zeile der Excel File dargestellt bzw. visualisiert.
 
+<img width="802" alt="Logistic-Regression_3-Logistische_Regression_Projekt-Loesung ipynb" src="https://user-images.githubusercontent.com/62958158/184738476-9330cf62-8a7e-4196-a5e8-e627109f3f84.png">
 
 Mithilfe das folgende Badge kann das Programm in mybinder aufgerufen werden.
 
